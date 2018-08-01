@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JxdQRCodeLib</string>
+    <string name="msg_camera_framework_bug">很遗憾，Android 相机出现问题。你可能需要重启设备。</string>
+    <string name="button_ok">确定</string>
+</resources>
